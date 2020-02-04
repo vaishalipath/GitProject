@@ -1,4 +1,2 @@
 Hello world.............
-
-change -for login update
-change -payment feature
+new directory
