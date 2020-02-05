@@ -6,3 +6,13 @@ Change-payment feature
 Change -to fix bug1
 
 Change -change made by another team member 
+
+change -to fix bug1
+
+change -to fix bug2
+
+
+change -to fix bug1
+
+change -to fix bug2
+
