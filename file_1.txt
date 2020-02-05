@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 roll_no1
 
 roll_no2
 
 roll_no3
+=======
+Roll_no 1
+
+Roll_no 2
+
+Roll_no 3
+>>>>>>> bug
